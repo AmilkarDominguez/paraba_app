@@ -1,0 +1,7 @@
+{
+  "name": "paraba_app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
